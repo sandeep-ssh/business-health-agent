@@ -88,9 +88,9 @@ Thought: {agent_scratchpad}"""
 
 # ── Agent factory ─────────────────────────────────────────────────────────────
 def build_agent(streaming: bool = False):
-    from langchain.agents import AgentExecutor, create_react_agent
-    from langchain.memory import ConversationBufferWindowMemory
-    from langchain_core.prompts import PromptTemplate
+    from langchain_classic.agents import AgentExecutor, create_react_agent
+    from langchain_classic.memory import ConversationBufferWindowMemory
+    from langchain_classic.prompts import PromptTemplate
     from tools.financial_tools import ALL_TOOLS
 
     llm    = _build_llm(streaming=streaming)
