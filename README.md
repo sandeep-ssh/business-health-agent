@@ -62,46 +62,8 @@ This project was built as a working, runnable implementation — not a theoretic
 ---
  
 ## Architecture Diagram
- 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                  User (terminal / Jupyter)                  │
-└──────────────────────┬──────────────────────────────────────┘
-                       │ natural language question
-                       ▼
-┌─────────────────────────────────────────────────────────────┐
-│              Business Health Agent (ReAct loop)             │
-│                                                             │
-│   ┌─────────────┐  ┌──────────────┐  ┌──────────────────┐  │
-│   │  LLM        │  │  Memory      │  │  LangSmith       │  │
-│   │  Claude /   │  │  last 6      │  │  traces every    │  │
-│   │  Azure GPT  │  │  turns       │  │  run             │  │
-│   └─────────────┘  └──────────────┘  └──────────────────┘  │
-│                                                             │
-│   Thinks → selects tool → observes result → answers        │
-└──────────────────────┬──────────────────────────────────────┘
-                       │ tool calls
-                       ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    Financial Tools (@tool)                   │
-│  get_profit_loss  │  get_balance_sheet  │  get_cashflow     │
-│  get_cashflow_forecast  │  get_aged_receivables             │
-│  get_top_customers  │  get_revenue_trend                    │
-└──────────────────────┬──────────────────────────────────────┘
-                       │ reads via unified loader
-                       ▼
-┌─────────────────────────────────────────────────────────────┐
-│                   data/loader.py                            │
-│   Kaggle CSV (primary)  →  normalise  →  pandas DataFrame   │
-│   mock.json (fallback)  →  normalise  →  pandas DataFrame   │
-└─────────────────────────────────────────────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────────────────────┐
-│              LangSmith Evaluation Pipeline                  │
-│  10 golden Q&A pairs  │  correctness (LLM-as-judge 0–1)    │
-│  tool selection (0/1)  │  model comparison (Claude vs GPT)  │
-└─────────────────────────────────────────────────────────────┘
+
+![Architecture](assets/business-health-agent.png)
 ```
  
 

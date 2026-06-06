@@ -1,93 +1,93 @@
 pay_date,employee_id,employee_name,role,type,amount,account
-15/2/2024,E001,Alice Smith,Barista,Employee Pay,1865,Checking Secondary
-15/2/2024,E002,Ben Lee,Barista,Employee Pay,1731,Checking Secondary
-15/2/2024,E003,Carla Gomez,Manager,Employee Pay,2272,Checking Secondary
-15/2/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1134,Checking Secondary
-15/3/2024,E001,Alice Smith,Barista,Employee Pay,1857,Checking Secondary
-15/3/2024,E002,Ben Lee,Barista,Employee Pay,1807,Checking Secondary
-15/3/2024,E003,Carla Gomez,Manager,Employee Pay,2233,Checking Secondary
-15/3/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1166,Checking Secondary
-15/4/2024,E001,Alice Smith,Barista,Employee Pay,1779,Checking Secondary
-15/4/2024,E002,Ben Lee,Barista,Employee Pay,1656,Checking Secondary
-15/4/2024,E003,Carla Gomez,Manager,Employee Pay,2279,Checking Secondary
-15/4/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1113,Checking Secondary
-15/5/2024,E001,Alice Smith,Barista,Employee Pay,1772,Checking Secondary
-15/5/2024,E002,Ben Lee,Barista,Employee Pay,1792,Checking Secondary
-15/5/2024,E003,Carla Gomez,Manager,Employee Pay,2248,Checking Secondary
-15/5/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1262,Checking Secondary
-15/6/2024,E001,Alice Smith,Barista,Employee Pay,1765,Checking Secondary
-15/6/2024,E002,Ben Lee,Barista,Employee Pay,1740,Checking Secondary
-15/6/2024,E003,Carla Gomez,Manager,Employee Pay,2229,Checking Secondary
-15/6/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1262,Checking Secondary
-15/7/2024,E001,Alice Smith,Barista,Employee Pay,1719,Checking Secondary
-15/7/2024,E002,Ben Lee,Barista,Employee Pay,1659,Checking Secondary
-15/7/2024,E003,Carla Gomez,Manager,Employee Pay,2124,Checking Secondary
-15/7/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1293,Checking Secondary
-15/8/2024,E001,Alice Smith,Barista,Employee Pay,1724,Checking Secondary
-15/8/2024,E002,Ben Lee,Barista,Employee Pay,1703,Checking Secondary
-15/8/2024,E003,Carla Gomez,Manager,Employee Pay,2132,Checking Secondary
-15/8/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1263,Checking Secondary
-15/9/2024,E001,Alice Smith,Barista,Employee Pay,1794,Checking Secondary
-15/9/2024,E002,Ben Lee,Barista,Employee Pay,1663,Checking Secondary
-15/9/2024,E003,Carla Gomez,Manager,Employee Pay,2164,Checking Secondary
-15/9/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1209,Checking Secondary
-15/10/2024,E001,Alice Smith,Barista,Employee Pay,1779,Checking Secondary
-15/10/2024,E002,Ben Lee,Barista,Employee Pay,1703,Checking Secondary
-15/10/2024,E003,Carla Gomez,Manager,Employee Pay,2224,Checking Secondary
-15/10/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1279,Checking Secondary
-15/11/2024,E001,Alice Smith,Barista,Employee Pay,1830,Checking Secondary
-15/11/2024,E002,Ben Lee,Barista,Employee Pay,1818,Checking Secondary
-15/11/2024,E003,Carla Gomez,Manager,Employee Pay,2233,Checking Secondary
-15/11/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1124,Checking Secondary
-15/12/2024,E001,Alice Smith,Barista,Employee Pay,1840,Checking Secondary
-15/12/2024,E002,Ben Lee,Barista,Employee Pay,1766,Checking Secondary
-15/12/2024,E003,Carla Gomez,Manager,Employee Pay,2235,Checking Secondary
-15/12/2024,C001,David Jones,Marketing Contractor,Contractor Pay,1248,Checking Secondary
-15/1/2025,E001,Alice Smith,Barista,Employee Pay,1895,Checking Secondary
-15/1/2025,E002,Ben Lee,Barista,Employee Pay,1674,Checking Secondary
-15/1/2025,E003,Carla Gomez,Manager,Employee Pay,2178,Checking Secondary
-15/1/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1167,Checking Secondary
-15/2/2025,E001,Alice Smith,Barista,Employee Pay,1872,Checking Secondary
-15/2/2025,E002,Ben Lee,Barista,Employee Pay,1837,Checking Secondary
-15/2/2025,E003,Carla Gomez,Manager,Employee Pay,2111,Checking Secondary
-15/2/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1131,Checking Secondary
-15/3/2025,E001,Alice Smith,Barista,Employee Pay,1827,Checking Secondary
-15/3/2025,E002,Ben Lee,Barista,Employee Pay,1745,Checking Secondary
-15/3/2025,E003,Carla Gomez,Manager,Employee Pay,2191,Checking Secondary
-15/3/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1240,Checking Secondary
-15/4/2025,E001,Alice Smith,Barista,Employee Pay,1730,Checking Secondary
-15/4/2025,E002,Ben Lee,Barista,Employee Pay,1727,Checking Secondary
-15/4/2025,E003,Carla Gomez,Manager,Employee Pay,2119,Checking Secondary
-15/4/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1245,Checking Secondary
-15/5/2025,E001,Alice Smith,Barista,Employee Pay,1759,Checking Secondary
-15/5/2025,E002,Ben Lee,Barista,Employee Pay,1840,Checking Secondary
-15/5/2025,E003,Carla Gomez,Manager,Employee Pay,2233,Checking Secondary
-15/5/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1259,Checking Secondary
-15/6/2025,E001,Alice Smith,Barista,Employee Pay,1792,Checking Secondary
-15/6/2025,E002,Ben Lee,Barista,Employee Pay,1692,Checking Secondary
-15/6/2025,E003,Carla Gomez,Manager,Employee Pay,2229,Checking Secondary
-15/6/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1159,Checking Secondary
-15/7/2025,E001,Alice Smith,Barista,Employee Pay,1850,Checking Secondary
-15/7/2025,E002,Ben Lee,Barista,Employee Pay,1680,Checking Secondary
-15/7/2025,E003,Carla Gomez,Manager,Employee Pay,2104,Checking Secondary
-15/7/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1261,Checking Secondary
-15/8/2025,E001,Alice Smith,Barista,Employee Pay,1709,Checking Secondary
-15/8/2025,E002,Ben Lee,Barista,Employee Pay,1738,Checking Secondary
-15/8/2025,E003,Carla Gomez,Manager,Employee Pay,2229,Checking Secondary
-15/8/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1225,Checking Secondary
-15/9/2025,E001,Alice Smith,Barista,Employee Pay,1710,Checking Secondary
-15/9/2025,E002,Ben Lee,Barista,Employee Pay,1827,Checking Secondary
-15/9/2025,E003,Carla Gomez,Manager,Employee Pay,2258,Checking Secondary
-15/9/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1155,Checking Secondary
-15/10/2025,E001,Alice Smith,Barista,Employee Pay,1782,Checking Secondary
-15/10/2025,E002,Ben Lee,Barista,Employee Pay,1786,Checking Secondary
-15/10/2025,E003,Carla Gomez,Manager,Employee Pay,2198,Checking Secondary
-15/10/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1248,Checking Secondary
-15/11/2025,E001,Alice Smith,Barista,Employee Pay,1772,Checking Secondary
-15/11/2025,E002,Ben Lee,Barista,Employee Pay,1805,Checking Secondary
-15/11/2025,E003,Carla Gomez,Manager,Employee Pay,2289,Checking Secondary
-15/11/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1214,Checking Secondary
-15/12/2025,E001,Alice Smith,Barista,Employee Pay,1706,Checking Secondary
-15/12/2025,E002,Ben Lee,Barista,Employee Pay,1729,Checking Secondary
-15/12/2025,E003,Carla Gomez,Manager,Employee Pay,2243,Checking Secondary
-15/12/2025,C001,David Jones,Marketing Contractor,Contractor Pay,1196,Checking Secondary
+15/2/2024,E001,Alice Smith,Barista,Employee Pay,"$1,865.00",Checking Secondary
+15/2/2024,E002,Ben Lee,Barista,Employee Pay,"$1,731.00",Checking Secondary
+15/2/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,272.00",Checking Secondary
+15/2/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,134.00",Checking Secondary
+15/3/2024,E001,Alice Smith,Barista,Employee Pay,"$1,857.00",Checking Secondary
+15/3/2024,E002,Ben Lee,Barista,Employee Pay,"$1,807.00",Checking Secondary
+15/3/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,233.00",Checking Secondary
+15/3/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,166.00",Checking Secondary
+15/4/2024,E001,Alice Smith,Barista,Employee Pay,"$1,779.00",Checking Secondary
+15/4/2024,E002,Ben Lee,Barista,Employee Pay,"$1,656.00",Checking Secondary
+15/4/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,279.00",Checking Secondary
+15/4/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,113.00",Checking Secondary
+15/5/2024,E001,Alice Smith,Barista,Employee Pay,"$1,772.00",Checking Secondary
+15/5/2024,E002,Ben Lee,Barista,Employee Pay,"$1,792.00",Checking Secondary
+15/5/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,248.00",Checking Secondary
+15/5/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,262.00",Checking Secondary
+15/6/2024,E001,Alice Smith,Barista,Employee Pay,"$1,765.00",Checking Secondary
+15/6/2024,E002,Ben Lee,Barista,Employee Pay,"$1,740.00",Checking Secondary
+15/6/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,229.00",Checking Secondary
+15/6/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,262.00",Checking Secondary
+15/7/2024,E001,Alice Smith,Barista,Employee Pay,"$1,719.00",Checking Secondary
+15/7/2024,E002,Ben Lee,Barista,Employee Pay,"$1,659.00",Checking Secondary
+15/7/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,124.00",Checking Secondary
+15/7/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,293.00",Checking Secondary
+15/8/2024,E001,Alice Smith,Barista,Employee Pay,"$1,724.00",Checking Secondary
+15/8/2024,E002,Ben Lee,Barista,Employee Pay,"$1,703.00",Checking Secondary
+15/8/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,132.00",Checking Secondary
+15/8/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,263.00",Checking Secondary
+15/9/2024,E001,Alice Smith,Barista,Employee Pay,"$1,794.00",Checking Secondary
+15/9/2024,E002,Ben Lee,Barista,Employee Pay,"$1,663.00",Checking Secondary
+15/9/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,164.00",Checking Secondary
+15/9/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,209.00",Checking Secondary
+15/10/2024,E001,Alice Smith,Barista,Employee Pay,"$1,779.00",Checking Secondary
+15/10/2024,E002,Ben Lee,Barista,Employee Pay,"$1,703.00",Checking Secondary
+15/10/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,224.00",Checking Secondary
+15/10/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,279.00",Checking Secondary
+15/11/2024,E001,Alice Smith,Barista,Employee Pay,"$1,830.00",Checking Secondary
+15/11/2024,E002,Ben Lee,Barista,Employee Pay,"$1,818.00",Checking Secondary
+15/11/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,233.00",Checking Secondary
+15/11/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,124.00",Checking Secondary
+15/12/2024,E001,Alice Smith,Barista,Employee Pay,"$1,840.00",Checking Secondary
+15/12/2024,E002,Ben Lee,Barista,Employee Pay,"$1,766.00",Checking Secondary
+15/12/2024,E003,Carla Gomez,Manager,Employee Pay,"$2,235.00",Checking Secondary
+15/12/2024,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,248.00",Checking Secondary
+15/1/2025,E001,Alice Smith,Barista,Employee Pay,"$1,895.00",Checking Secondary
+15/1/2025,E002,Ben Lee,Barista,Employee Pay,"$1,674.00",Checking Secondary
+15/1/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,178.00",Checking Secondary
+15/1/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,167.00",Checking Secondary
+15/2/2025,E001,Alice Smith,Barista,Employee Pay,"$1,872.00",Checking Secondary
+15/2/2025,E002,Ben Lee,Barista,Employee Pay,"$1,837.00",Checking Secondary
+15/2/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,111.00",Checking Secondary
+15/2/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,131.00",Checking Secondary
+15/3/2025,E001,Alice Smith,Barista,Employee Pay,"$1,827.00",Checking Secondary
+15/3/2025,E002,Ben Lee,Barista,Employee Pay,"$1,745.00",Checking Secondary
+15/3/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,191.00",Checking Secondary
+15/3/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,240.00",Checking Secondary
+15/4/2025,E001,Alice Smith,Barista,Employee Pay,"$1,730.00",Checking Secondary
+15/4/2025,E002,Ben Lee,Barista,Employee Pay,"$1,727.00",Checking Secondary
+15/4/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,119.00",Checking Secondary
+15/4/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,245.00",Checking Secondary
+15/5/2025,E001,Alice Smith,Barista,Employee Pay,"$1,759.00",Checking Secondary
+15/5/2025,E002,Ben Lee,Barista,Employee Pay,"$1,840.00",Checking Secondary
+15/5/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,233.00",Checking Secondary
+15/5/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,259.00",Checking Secondary
+15/6/2025,E001,Alice Smith,Barista,Employee Pay,"$1,792.00",Checking Secondary
+15/6/2025,E002,Ben Lee,Barista,Employee Pay,"$1,692.00",Checking Secondary
+15/6/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,229.00",Checking Secondary
+15/6/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,159.00",Checking Secondary
+15/7/2025,E001,Alice Smith,Barista,Employee Pay,"$1,850.00",Checking Secondary
+15/7/2025,E002,Ben Lee,Barista,Employee Pay,"$1,680.00",Checking Secondary
+15/7/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,104.00",Checking Secondary
+15/7/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,261.00",Checking Secondary
+15/8/2025,E001,Alice Smith,Barista,Employee Pay,"$1,709.00",Checking Secondary
+15/8/2025,E002,Ben Lee,Barista,Employee Pay,"$1,738.00",Checking Secondary
+15/8/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,229.00",Checking Secondary
+15/8/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,225.00",Checking Secondary
+15/9/2025,E001,Alice Smith,Barista,Employee Pay,"$1,710.00",Checking Secondary
+15/9/2025,E002,Ben Lee,Barista,Employee Pay,"$1,827.00",Checking Secondary
+15/9/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,258.00",Checking Secondary
+15/9/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,155.00",Checking Secondary
+15/10/2025,E001,Alice Smith,Barista,Employee Pay,"$1,782.00",Checking Secondary
+15/10/2025,E002,Ben Lee,Barista,Employee Pay,"$1,786.00",Checking Secondary
+15/10/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,198.00",Checking Secondary
+15/10/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,248.00",Checking Secondary
+15/11/2025,E001,Alice Smith,Barista,Employee Pay,"$1,772.00",Checking Secondary
+15/11/2025,E002,Ben Lee,Barista,Employee Pay,"$1,805.00",Checking Secondary
+15/11/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,289.00",Checking Secondary
+15/11/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,214.00",Checking Secondary
+15/12/2025,E001,Alice Smith,Barista,Employee Pay,"$1,706.00",Checking Secondary
+15/12/2025,E002,Ben Lee,Barista,Employee Pay,"$1,729.00",Checking Secondary
+15/12/2025,E003,Carla Gomez,Manager,Employee Pay,"$2,243.00",Checking Secondary
+15/12/2025,C001,David Jones,Marketing Contractor,Contractor Pay,"$1,196.00",Checking Secondary

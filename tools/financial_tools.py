@@ -467,7 +467,7 @@ def get_revenue_trend(months: int = 6) -> dict:
     if not periods:
         return {"error": "No period data available."}
 
-    recent = periods[-min(months, len(periods), 24):]
+    recent = periods[-min(int(months), len(periods), 24):]
 
     trend = []
     prev_rev = None
