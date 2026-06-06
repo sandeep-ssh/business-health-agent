@@ -61,9 +61,11 @@ This project was built as a working, runnable implementation — not a theoretic
  
 ---
  
-## Architecture Diagram
+## Architecture Diagram and Implementation Guide 
 
 ![Architecture](assets/business-health-agent.png)
+
+![Implementation Guide](assets/business-health-agent.pdf)
 ```
  
 
