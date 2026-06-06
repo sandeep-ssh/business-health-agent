@@ -1,0 +1,22 @@
+# Business Health Agent v2 — Dependencies
+# pip install -r requirements.txt
+
+# Core agent framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# LLM providers — install only what you need
+langchain-openai>=0.2.0        # Azure OpenAI or OpenAI
+langchain-anthropic>=0.3.0     # Anthropic Claude
+
+# Data processing (NEW — for CSV support)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Evals & tracing
+langsmith>=0.2.0
+
+# Utilities
+python-dotenv>=1.0.0
+kaggle>=1.6.0                  # optional: for CLI dataset download

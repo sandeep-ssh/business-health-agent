@@ -1,0 +1,92 @@
+{
+  "business": {
+    "name": "Greenleaf Supplies Pty Ltd",
+    "abn": "12 345 678 901",
+    "industry": "Wholesale Trade",
+    "base_currency": "AUD"
+  },
+  "profit_loss": {
+    "2023-04": {
+      "revenue": { "product_sales": 119800, "service_fees": 17200, "other_income": 600, "total": 137600 },
+      "cost_of_goods_sold": { "raw_materials": 48100, "direct_labour": 14900, "total": 63000 },
+      "gross_profit": 74600,
+      "operating_expenses": { "salaries_wages": 34500, "rent": 8200, "utilities": 2500, "marketing": 2800, "insurance": 1900, "depreciation": 3200, "software_subscriptions": 1400, "travel": 600, "professional_fees": 3500, "total": 58600 },
+      "operating_profit": 16000,
+      "interest_expense": 1800,
+      "tax_provision": 4260,
+      "net_profit": 9940
+    },
+    "2023-05": {
+      "revenue": { "product_sales": 131600, "service_fees": 19800, "other_income": 900, "total": 152300 },
+      "cost_of_goods_sold": { "raw_materials": 54200, "direct_labour": 16100, "total": 70300 },
+      "gross_profit": 82000,
+      "operating_expenses": { "salaries_wages": 34500, "rent": 8200, "utilities": 2300, "marketing": 3200, "insurance": 1900, "depreciation": 3200, "software_subscriptions": 1400, "travel": 1200, "professional_fees": 1800, "total": 57700 },
+      "operating_profit": 24300,
+      "interest_expense": 1800,
+      "tax_provision": 6750,
+      "net_profit": 15750
+    },
+    "2023-06": {
+      "revenue": { "product_sales": 148200, "service_fees": 23400, "other_income": 1200, "total": 172800 },
+      "cost_of_goods_sold": { "raw_materials": 61400, "direct_labour": 18200, "total": 79600 },
+      "gross_profit": 93200,
+      "operating_expenses": { "salaries_wages": 34500, "rent": 8200, "utilities": 2100, "marketing": 4800, "insurance": 1900, "depreciation": 3200, "software_subscriptions": 1400, "travel": 800, "professional_fees": 2200, "total": 59100 },
+      "operating_profit": 34100,
+      "interest_expense": 1800,
+      "tax_provision": 9690,
+      "net_profit": 22610
+    }
+  },
+  "balance_sheet": {
+    "2023-06-30": {
+      "assets": {
+        "current": { "cash_and_equivalents": 84200, "accounts_receivable": 67400, "inventory": 112300, "prepaid_expenses": 8100, "total_current": 272000 },
+        "non_current": { "property_plant_equipment": 248000, "accumulated_depreciation": -89600, "intangible_assets": 24000, "total_non_current": 182400 },
+        "total_assets": 454400
+      },
+      "liabilities": {
+        "current": { "accounts_payable": 42800, "accrued_expenses": 18200, "current_portion_debt": 24000, "gst_payable": 9600, "total_current": 94600 },
+        "non_current": { "long_term_debt": 96000, "deferred_tax": 8400, "total_non_current": 104400 },
+        "total_liabilities": 199000
+      },
+      "equity": { "share_capital": 120000, "retained_earnings": 135400, "total_equity": 255400 }
+    }
+  },
+  "cashflow": {
+    "2023-05": {
+      "operating": { "receipts_from_customers": 148200, "payments_to_suppliers": -73400, "payments_to_employees": -52700, "tax_paid": -6100, "net_operating": 16000 },
+      "investing": { "purchase_of_equipment": 0, "net_investing": 0 },
+      "financing": { "loan_repayments": -2000, "net_financing": -2000 },
+      "net_change": 14000, "opening_balance": 58800, "closing_balance": 72800
+    },
+    "2023-06": {
+      "operating": { "receipts_from_customers": 168400, "payments_to_suppliers": -82100, "payments_to_employees": -52700, "tax_paid": -8200, "net_operating": 25400 },
+      "investing": { "purchase_of_equipment": -12000, "net_investing": -12000 },
+      "financing": { "loan_repayments": -2000, "net_financing": -2000 },
+      "net_change": 11400, "opening_balance": 72800, "closing_balance": 84200
+    }
+  },
+  "aged_receivables": {
+    "as_of": "2023-06-30",
+    "total_outstanding": 67400,
+    "buckets": { "current_0_30": 38200, "overdue_31_60": 17400, "overdue_61_90": 8600, "overdue_90_plus": 3200 },
+    "customers": [
+      {"id": "C001", "name": "Apex Retail Group",      "outstanding": 18400, "oldest_invoice_days": 28, "risk": "low"},
+      {"id": "C002", "name": "Metro Construction Co",  "outstanding": 14200, "oldest_invoice_days": 47, "risk": "medium"},
+      {"id": "C003", "name": "Sunrise Hospitality",    "outstanding": 11800, "oldest_invoice_days": 22, "risk": "low"},
+      {"id": "C004", "name": "Pacific Trade Partners", "outstanding":  9600, "oldest_invoice_days": 68, "risk": "high"},
+      {"id": "C005", "name": "Urban Garden Co",        "outstanding":  7200, "oldest_invoice_days": 15, "risk": "low"},
+      {"id": "C006", "name": "Blue Ridge Farms",       "outstanding":  4800, "oldest_invoice_days": 91, "risk": "high"},
+      {"id": "C007", "name": "Coastal Catering",       "outstanding":  1400, "oldest_invoice_days": 34, "risk": "medium"}
+    ]
+  },
+  "customers": {
+    "top_by_revenue_ytd": [
+      {"id": "C001", "name": "Apex Retail Group",      "ytd_revenue": 284600, "invoices": 24},
+      {"id": "C003", "name": "Sunrise Hospitality",    "ytd_revenue": 198400, "invoices": 18},
+      {"id": "C002", "name": "Metro Construction Co",  "ytd_revenue": 167200, "invoices": 14},
+      {"id": "C008", "name": "Northside Distributors", "ytd_revenue": 134800, "invoices": 22},
+      {"id": "C005", "name": "Urban Garden Co",        "ytd_revenue":  98200, "invoices": 31}
+    ]
+  }
+}

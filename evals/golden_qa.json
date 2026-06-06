@@ -1,0 +1,72 @@
+[
+  {
+    "id": "eval_001",
+    "question": "Is the business profitable this month?",
+    "expected_tool": "get_profit_loss",
+    "golden_answer": "The agent should state whether net profit is positive or negative for the most recent period, give the net profit figure, revenue total, and net margin percentage.",
+    "tags": ["profitability", "monthly"]
+  },
+  {
+    "id": "eval_002",
+    "question": "Who are the top 5 customers by revenue?",
+    "expected_tool": "get_top_customers",
+    "golden_answer": "The agent should list the top 5 customers or vendors by revenue, including their revenue amounts and share of total revenue.",
+    "tags": ["customers", "revenue"]
+  },
+  {
+    "id": "eval_003",
+    "question": "Am I at risk of a cash flow problem in the next 30 days?",
+    "expected_tool": "get_cashflow_forecast",
+    "golden_answer": "The agent should give a risk assessment (HIGH/MEDIUM/LOW) for the next 1-2 months, based on projected inflows and outflows from recent trends.",
+    "tags": ["cashflow", "risk", "forecast"]
+  },
+  {
+    "id": "eval_004",
+    "question": "What is my current cash balance?",
+    "expected_tool": "get_balance_sheet",
+    "golden_answer": "The agent should state the cash and cash equivalents figure from the balance sheet, along with the current ratio.",
+    "tags": ["balance_sheet", "liquidity"]
+  },
+  {
+    "id": "eval_005",
+    "question": "Do I have any overdue invoices I should be worried about?",
+    "expected_tool": "get_aged_receivables",
+    "golden_answer": "The agent should state total outstanding receivables, how much is overdue (broken into 30/60/90+ day buckets), and highlight any high-risk customers.",
+    "tags": ["receivables", "collections", "risk"]
+  },
+  {
+    "id": "eval_006",
+    "question": "How does this month's revenue compare to last month?",
+    "expected_tool": "get_profit_loss",
+    "golden_answer": "The agent should compare revenue figures for the most recent two months, giving the absolute change and percentage change.",
+    "tags": ["revenue", "comparison", "trend"]
+  },
+  {
+    "id": "eval_007",
+    "question": "What is my debt-to-equity ratio?",
+    "expected_tool": "get_balance_sheet",
+    "golden_answer": "The agent should state the debt-to-equity ratio and briefly explain whether it indicates a conservative or aggressive leverage position.",
+    "tags": ["balance_sheet", "solvency", "ratios"]
+  },
+  {
+    "id": "eval_008",
+    "question": "How much cash did the business generate last month?",
+    "expected_tool": "get_cashflow",
+    "golden_answer": "The agent should give the net cash flow for last month, breaking it into operating, investing, and financing activities.",
+    "tags": ["cashflow", "operations"]
+  },
+  {
+    "id": "eval_009",
+    "question": "What are my biggest operating expenses?",
+    "expected_tool": "get_profit_loss",
+    "golden_answer": "The agent should list the top 3-5 operating expense categories with their amounts for the most recent period.",
+    "tags": ["expenses", "operations"]
+  },
+  {
+    "id": "eval_010",
+    "question": "Is revenue growing or declining over the past few months?",
+    "expected_tool": "get_revenue_trend",
+    "golden_answer": "The agent should state the trend direction (growing/declining/stable), show monthly revenue figures, and give average monthly revenue.",
+    "tags": ["revenue", "trend", "growth"]
+  }
+]
